@@ -1,0 +1,88 @@
+[
+    {
+        "sku": 504144,
+        "categoria": "Hidraulica",
+        "nombre": "Manguera retorno Ford", 
+        "precio": 381.90
+    },
+    {
+        "sku": 264105,
+        "categoria": "Hidraulica",
+        "nombre": "Manguera retorno Fiat", 
+        "precio": 322.07
+    },
+    {
+        "sku": 23668,
+        "categoria": "Hidraulica",
+        "nombre": "Manguera retorno VW", 
+        "precio": 72.45
+    },
+    {
+        "sku": 182383,
+        "categoria": "Hidraulica",
+        "nombre": "Manguera retorno Chevrolet", 
+        "precio": 118.99
+    },
+    {
+        "sku": 500096,
+        "categoria": "Soportes",
+        "nombre": "Soporte motor Ford", 
+        "precio": 263.90
+    },
+    {
+        "sku": 500112,
+        "categoria": "Soportes",
+        "nombre": "Soporte motor Fiat", 
+        "precio": 263.90
+    },
+    {
+        "sku": 512922,
+        "categoria": "Soportes",
+        "nombre": "Soporte motor Chevrolet", 
+        "precio": 74.08
+    },
+    {
+        "sku": 462041,
+        "categoria": "Soportes",
+        "nombre": "Soporte motor Audi", 
+        "precio": 141.50
+    },
+    {
+        "sku": 112090,
+        "categoria": "Refrigeración",
+        "nombre": "Manguera AA VW", 
+        "precio": 82.99
+    },
+    {
+        "sku": 258769,
+        "categoria": "Refrigeración",
+        "nombre": "Manguera AA Ford", 
+        "precio": 177.99
+    },
+    {
+        "sku": 511812,
+        "categoria": "Refrigeración",
+        "nombre": "Manguera AA Fiat", 
+        "precio": 290.39
+    },
+    {
+        "sku": 243838,
+        "categoria": "Refrigeración",
+        "nombre": "Manguera AA Chevrolet", 
+        "precio": 72.93
+    },
+    {
+        "sku": 15517,
+        "categoria": "Refrigeración",
+        "nombre": "Manguera AA Audi", 
+        "precio": 72.93
+    },
+    {
+        "sku": 299168,
+        "categoria": "Refrigeración",
+        "nombre": "Manguera AA Renault", 
+        "precio": 62.00
+    }
+
+
+]
